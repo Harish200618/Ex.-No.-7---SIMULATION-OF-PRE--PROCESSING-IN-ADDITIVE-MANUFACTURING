@@ -44,8 +44,9 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-![image](https://github.com/user-attachments/assets/5e11c3be-8536-4b6f-b98f-cc2b92d4f12c)
+![WhatsApp Image 2024-12-13 at 09 13 46_2caa8a70](https://github.com/user-attachments/assets/9bb24db2-19ca-4d8b-9056-d2d9f7c104fc)
 
+![WhatsApp Image 2024-12-13 at 09 14 11_f1dc8166](https://github.com/user-attachments/assets/5cde1a31-e4f5-4485-8596-71b7756f9adf)
 
 
 ### Name: HARISH S
